@@ -3,11 +3,10 @@ using System.Numerics;
 
 internal static class Program {
     public const string versionNumber = "0.0.1";
-
-    public static readonly Vector3 WORLD_ORIGIN = new Vector3(0, 0, 0);
-
     private const int windowWidth = 900;
     private const int windowHeight = 580;
+
+    public static readonly Vector3 WORLD_ORIGIN = new Vector3(0, 0, 0);
 
     private static Camera3D camera;
 
