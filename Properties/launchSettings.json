@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestCSharpProgram": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\sonic\\source\\repos\\TestCSharpProgram\\"
+    }
+  }
+}
